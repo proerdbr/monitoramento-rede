@@ -5,9 +5,8 @@ Aqui você encontra scripts que monitoram a conectividade de hosts usando o coma
 
 ## 🚀 Como usar
 
-```bash
-# Windows (PowerShell)
-./ping_monitor.ps1
+Execute o script correspondente ao seu sistema operacional:
 
-# Linux / WSL
-bash ping_monitor.sh
+```bash
+./ping_monitor.ps1      # Para Windows (PowerShell)
+bash ping_monitor.sh    # Para Linux / WSL
